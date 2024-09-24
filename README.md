@@ -17,9 +17,9 @@ features:
 TASK-3. ATM Interface
 Features:
 
-User registration and login functionality
-Ability to check account balance
-Deposit funds with no limit
-Withdraw funds with a maximum limit of 10,000
-Transfer funds to other users while preventing self-transfer
-Transaction history tracking
+- User registration and login functionality
+- Ability to check account balance
+- Deposit funds 
+- Withdraw funds 
+- Transfer funds to other users while preventing self-transfer
+- Transaction history tracking
